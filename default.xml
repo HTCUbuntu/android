@@ -32,6 +32,13 @@
   <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
+  
+    <!-- Shootervm Device Files -->
+  <project path="device/htc/msm8660-common" name="HTCUbuntu/android_device_htc_msm8660-common" />
+  <project path="device/htc/shootervm" name="HTCUbuntu/android_device_htc_shootervm" />
+  <project path="kernel/htc/msm8660" name="HTCUbuntu/android_kernel_htc_msm8660" />
+  <project path="vendor/htc" name="HTCUbuntu/android_vendor_htc" />
+  <!-- END Shootervm Device Files --> 
 
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
