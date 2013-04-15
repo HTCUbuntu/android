@@ -36,7 +36,9 @@
     <!-- Shootervm Device Files -->
   <project path="device/htc/msm8660-common" remote="github" name="HTCUbuntu/android_device_htc_msm8660-common" />
   <project path="device/htc/shootervm" remote="github" name="HTCUbuntu/android_device_htc_shootervm" />
-  <project path="kernel/htc/msm8660" remote="github" name="HTCUbuntu/android_kernel_htc_msm8660" />
+  <project path="kernel/htc/shootervm" remote="github" name="HTCUbuntu/android_kernel_htc_shootervm" />
+  <project path="hardware/qcom/display-legacy" name="CyanogenMod/android_hardware_qcom_display-legacy" />
+  <project path="hardware/qcom/media-legacy" name="CyanogenMod/android_hardware_qcom_media-legacy" />
   <project path="vendor/htc" remote="github" name="HTCUbuntu/android_vendor_htc" />
   <!-- END Shootervm Device Files --> 
 
