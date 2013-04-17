@@ -40,6 +40,7 @@
   <project path="kernel/htc/msm8660" remote="github" name="HTCUbuntu/android_kernel_htc_msm8660" />
   <project path="hardware/qcom/display-legacy" remote="github" name="HTCUbuntu/android_hardware_qcom_display-legacy" />
   <project path="hardware/qcom/media-legacy" remote="github" name="HTCUbuntu/android_hardware_qcom_media-legacy" />
+  <project path="patches" remote="github" name="HTCUbuntu/android_patches" />
   
   <!-- END Shootervm Device Files --> 
 
